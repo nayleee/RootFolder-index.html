@@ -1,0 +1,46 @@
+h1 {
+  font-family: arial "Tinmes New Roman";
+  font-size: 55px
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+  letter-spacing: 2.5px;
+  color: #B482FF
+}
+.title {
+  color: #76C9E8
+  fomt-family: monospace;
+  fomt-weight: normal;
+  text-decoration: inherit;
+  letter-spacing: normal;
+  font-size: 30px;
+}
+
+p {
+  text-inden: 40px;
+  font-family: monospace;
+  font-size: 23px;
+  text-transform; uppercase;
+  word-spacing: 0.5px;
+}
+
+.img-music {
+  width: 300px;
+}
+
+.img-party {
+  width: 300px;
+}
+.img-styles {
+  width: 300px;
+}
+.img-niall {
+  width: 300px;
+  length: 300px;
+}
+.img-styles {
+  width: 450px;
+  length: 450px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
